@@ -1,1 +1,1 @@
-https://img.shields.io/badge/Gregzee-Gregzee-red
+![GitHub followers](https://img.shields.io/github/followers/Gregor-Lilienberg)
