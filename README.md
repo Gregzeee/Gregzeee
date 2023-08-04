@@ -2,4 +2,4 @@
 
 ![Gregzee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gregzeee&show_icons=true&theme=dark)
 
-![Visitors](https://profile-counter.glitch.me/{Gregzeee}/count.svg)
+![](https://komarev.com/ghpvc/?username=Gregzeee&style=plastic&color=brightgreen&label=Visits)
