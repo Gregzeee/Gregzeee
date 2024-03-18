@@ -4,17 +4,3 @@
 
 
 ![Gregzee's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gregzeee&show_icons=true&theme=dark) 
-
-## Hello there! 👋
-
-I'm Gregzee, a young developer from Estonia.
-
-- 🏫 I'm in the 8th grade.
-- 💻 I'm learning C#
-- 📦 I code plugins for minecraft
-- 🌏 I'm passionate in almost anything IT related
-- 🍳 Additionally i love to cook
-- 🎬 My favorite movie/tv show genre is: Comedy
-- 🎮 When I'm not coding I'm likely playing video games
-- 📫 How to reach me: Discord: gregzee
-- ⚡ Fun fact about me: I like math and learning new things
