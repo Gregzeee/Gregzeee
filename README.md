@@ -54,8 +54,8 @@ This thing kinda broken rn 🤭
 <br/>
 
 <a href="https://github.com/Gregzeee">
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true](https://github-readme-streak-stats.herokuapp.com/?user=Gregzeee&theme=dark&hide_border=true)" />
-  <img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact](https://github-readme-stats-a5xq.vercel.app/api/top-langs/?username=Gregzeee&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats")" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Gregzeee&theme=dark&hide_border=true)" />
+  <img height="180em" src="https://github-readme-stats-a5xq.vercel.app/api/top-langs/?username=Gregzeee&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats")" />
 </a>
 
 <br/>
